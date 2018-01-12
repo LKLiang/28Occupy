@@ -1,0 +1,14 @@
+/* 
+  Localization.strings
+  28Occupy
+
+  Created by Jinjun liang on 2018/1/10.
+  Copyright © 2018年 LK. All rights reserved.
+*/
+
+"RULE" = "Rule";
+"RULE_CONTENT" = "1. Each box has two states, a white 8 box and a color 2 box. \n 2. The initial state is white 8 state, when the box is clicked, then the current state of the box will become the opposite state \n 3. At the same time, the box adjacent to the box (not including diagonally adjacent square) Will change, and the game ends when all the squares have become color squares. \n 4. try to challenge the higher order of the game difficulty.";
+
+"RANDOM" = "Random";
+
+

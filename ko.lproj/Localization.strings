@@ -1,0 +1,14 @@
+/* 
+  Localization.strings
+  28Occupy
+
+  Created by Jinjun liang on 2018/1/10.
+  Copyright © 2018年 LK. All rights reserved.
+*/
+
+"RULE" = "규칙";
+"RULE_CONTENT" = "1. 각 상자에는 두 개의 상태, 흰색 8 상자 및 색 2 상자가 있습니다. \n 2. 초기 상태는 흰색 8 상태, 상자를 클릭하면 상자의 현재 상태가 반대 상태가됩니다 \n 3 동시에 상자에 인접한 상자 (대각선으로 인접한 사각형 제외) 변경되며 모든 사각형이 색 사각형이되면 게임이 종료됩니다. \n 4. 게임 바의 높은 수준의 난이도에 도전 해보십시오.";
+
+"RANDOM" = "랜덤";
+
+
